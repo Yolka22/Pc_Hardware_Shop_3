@@ -1,0 +1,6 @@
+GTX 1660 Ti
+350
+6Gb 1890mhz
+AMD Ryzen 5 5600x
+320
+8 cores 3.2-4.4Ghz
